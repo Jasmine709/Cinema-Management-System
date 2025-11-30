@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|d:\\gitprogram\\c_sharp\\cinemamanagement\\winformsapp1\\service\\showingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:service\\showingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|d:\\gitprogram\\c_sharp\\cinemamanagement\\winformsapp1\\moviebooking\\addshowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\addshowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|d:\\gitprogram\\c_sharp\\cinemamanagement\\winformsapp1\\moviebooking\\addshowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\addshowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\moviebooking\\movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|d:\\gitprogram\\c_sharp\\cinemamanagement\\winformsapp1\\moviebooking\\movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\moviebooking\\ticketqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\ticketqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\moviebooking\\ticketqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\ticketqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|d:\\gitprogram\\c_sharp\\cinemamanagement\\winformsapp1\\moviebooking\\ticketinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\ticketinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|d:\\gitprogram\\c_sharp\\cinemamanagement\\winformsapp1\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|d:\\gitprogram\\c_sharp\\cinemamanagement\\winformsapp1\\service\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:service\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\moviebooking\\seatselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\seatselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\moviebooking\\moviedatailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\moviedatailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\data\\cinemaappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:data\\cinemaappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\repository\\showingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:repository\\showingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|d:\\gitprogram\\c_sharp\\cinemamanagement\\winformsapp1\\moviebooking\\seatselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\seatselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\models\\showing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:models\\showing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MovieBooking\\AddSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\service\\movieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:service\\movieservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\moviebooking\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:moviebooking\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\service\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:service\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\migrations\\20241025014413_updateroomstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745A5985-0306-4FA5-86D4-7195FB79CBEE}|WinFormsApp1.csproj|solutionrelative:migrations\\20241025014413_updateroomstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowingService.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Service\\ShowingService.cs",
+              "RelativeDocumentMoniker": "Service\\ShowingService.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Service\\ShowingService.cs",
+              "RelativeToolTip": "Service\\ShowingService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:13:53.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieList.cs [Design]",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\MovieList.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\MovieList.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\MovieList.cs [Design]",
+              "RelativeToolTip": "MovieBooking\\MovieList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:08:51.624Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketInfoForm.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\TicketInfoForm.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\TicketInfoForm.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\TicketInfoForm.cs",
+              "RelativeToolTip": "MovieBooking\\TicketInfoForm.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:41:39.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketQueryForm.cs [Design]",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\TicketQueryForm.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\TicketQueryForm.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\TicketQueryForm.cs [Design]",
+              "RelativeToolTip": "MovieBooking\\TicketQueryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:33:47.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieList.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\MovieList.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\MovieList.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\MovieList.cs",
+              "RelativeToolTip": "MovieBooking\\MovieList.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAADgv2EAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:31:47.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddShowing.cs [Design]",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\AddShowing.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\AddShowing.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\AddShowing.cs [Design]",
+              "RelativeToolTip": "MovieBooking\\AddShowing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:55:50.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddShowing.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\AddShowing.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\AddShowing.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\AddShowing.cs",
+              "RelativeToolTip": "MovieBooking\\AddShowing.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAxwDQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:30:24.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeatSelection.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\SeatSelection.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\SeatSelection.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\SeatSelection.cs",
+              "RelativeToolTip": "MovieBooking\\SeatSelection.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAgwIIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:35:13.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Service\\TicketService.cs",
+              "RelativeDocumentMoniker": "Service\\TicketService.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Service\\TicketService.cs",
+              "RelativeToolTip": "Service\\TicketService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:46:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TicketRepository.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\TicketRepository.cs",
+              "RelativeToolTip": "Repository\\TicketRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwD0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:46:39.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketQueryForm.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\TicketQueryForm.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\TicketQueryForm.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\TicketQueryForm.cs",
+              "RelativeToolTip": "MovieBooking\\TicketQueryForm.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:33:54.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieDatailForm.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\MovieDatailForm.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\MovieDatailForm.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\MovieDatailForm.cs",
+              "RelativeToolTip": "MovieBooking\\MovieDatailForm.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:22:28.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CinemaAppDbcontext.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Data\\CinemaAppDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\CinemaAppDbcontext.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Data\\CinemaAppDbcontext.cs",
+              "RelativeToolTip": "Data\\CinemaAppDbcontext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAewBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:47:26.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:08:55.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeatSelection.cs [Design]",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\SeatSelection.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\SeatSelection.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\SeatSelection.cs [Design]",
+              "RelativeToolTip": "MovieBooking\\SeatSelection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:06:01.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShowingRepository.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\ShowingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ShowingRepository.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\ShowingRepository.cs",
+              "RelativeToolTip": "Repository\\ShowingRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAvwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:54:41.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddSession.cs",
+              "DocumentMoniker": "D:\\MovieBooking\\AddSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MovieBooking\\AddSession.cs",
+              "ToolTip": "D:\\MovieBooking\\AddSession.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MovieBooking\\AddSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:43:40.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Showing.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Showing.cs",
+              "RelativeDocumentMoniker": "Models\\Showing.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Showing.cs",
+              "RelativeToolTip": "Models\\Showing.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADgvxIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:34:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvxQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:44:18.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenreRepository.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\GenreRepository.cs",
+              "RelativeToolTip": "Repository\\GenreRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:37:34.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieServices.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Service\\MovieServices.cs",
+              "RelativeDocumentMoniker": "Service\\MovieServices.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Service\\MovieServices.cs",
+              "RelativeToolTip": "Service\\MovieServices.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwFoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:49:47.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IMovieRepository.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "Repository\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:11:18.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADgvxUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:22:06.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:32:08.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\MainForm.cs",
+              "RelativeDocumentMoniker": "MovieBooking\\MainForm.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\MovieBooking\\MainForm.cs [Design]",
+              "RelativeToolTip": "MovieBooking\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:26:35.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Service\\GenreService.cs",
+              "RelativeDocumentMoniker": "Service\\GenreService.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Service\\GenreService.cs",
+              "RelativeToolTip": "Service\\GenreService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:34:03.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:46:12.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:30:43.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241025014413_UpdateRoomStructure.cs",
+              "DocumentMoniker": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Migrations\\20241025014413_UpdateRoomStructure.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241025014413_UpdateRoomStructure.cs",
+              "ToolTip": "D:\\Gitprogram\\C_sharp\\CinemaManagement\\WinFormsApp1\\Migrations\\20241025014413_UpdateRoomStructure.cs",
+              "RelativeToolTip": "Migrations\\20241025014413_UpdateRoomStructure.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:44:14.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

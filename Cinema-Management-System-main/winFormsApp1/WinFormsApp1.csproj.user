@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="MovieBooking\AddShowing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MovieBooking\MovieDatailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MovieBooking\MovieList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MovieBooking\SeatSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MovieBooking\TicketInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MovieBooking\TicketQueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
